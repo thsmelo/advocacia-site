@@ -1,0 +1,14 @@
+MODO1
+
+    passo1 = terminal
+    passo2 = python + enter
+
+    isso vai abrir modo interativo para testes
+
+MODO2
+    
+    executar script com a flag -i (python -i app.py)
+
+IMPORTANTE
+
+    para sair: exit()

@@ -1,0 +1,5 @@
+# biblioteca: truth-table-generator
+import ttg
+
+# definir variáveis 'p' e 'q' e criar tabela verdade para 'p and q'
+print(ttg.Truths(['p','q'],['p and q']))

@@ -1,0 +1,13 @@
+ajuda em python
+
+
+dir()
+dir(100)
+crtl+l para limpar
+
+help()
+help(100)
+para sair é só apertar enter de novo
+
+
+*digitar no terminal modo interativo*

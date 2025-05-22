@@ -1,0 +1,26 @@
+   escolha ultimoDigito
+      caso "1", "2"
+         escreva ("O veículo pode circular às segundas-feiras.")
+      caso "3", "4"
+         escreva ("O veículo pode circular às terças-feiras")
+      caso "5", "6"
+         escreva ("O veículo pode circular às quartas-feiras")
+      caso "7", "8"
+         escreva("O veículo pode circular às quintas-feiras")
+      caso "9", "0"
+         escreva("O veículo pode circular às sextas-feiras")
+      senao
+         escreva("Digito inválido, por favor, insira um dígito de 0 a 9.")
+   fimEscolha
+
+
+se ultimoDigito = "1", "2" faca
+   escreva ("""")
+senao
+   escreva ("""")
+
+
+
+
+
+senao
